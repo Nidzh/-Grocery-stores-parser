@@ -127,3 +127,13 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+/const.py
+/test.py
+/test2.py
+
+.idea/VkusVill.iml
+.idea/inspectionProfiles/profiles_settings.xml
+.idea/misc.xml
+.idea/modules.xml
+.idea/vcs.xml
+
